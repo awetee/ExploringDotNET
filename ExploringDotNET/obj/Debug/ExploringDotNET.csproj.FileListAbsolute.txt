@@ -1,0 +1,6 @@
+c:\users\oadebiyi\documents\visual studio 2015\Projects\ExploringDotNET\ExploringDotNET\bin\Debug\ExploringDotNET.exe.config
+c:\users\oadebiyi\documents\visual studio 2015\Projects\ExploringDotNET\ExploringDotNET\bin\Debug\ExploringDotNET.exe
+c:\users\oadebiyi\documents\visual studio 2015\Projects\ExploringDotNET\ExploringDotNET\bin\Debug\ExploringDotNET.pdb
+c:\users\oadebiyi\documents\visual studio 2015\Projects\ExploringDotNET\ExploringDotNET\obj\Debug\ExploringDotNET.csprojResolveAssemblyReference.cache
+c:\users\oadebiyi\documents\visual studio 2015\Projects\ExploringDotNET\ExploringDotNET\obj\Debug\ExploringDotNET.exe
+c:\users\oadebiyi\documents\visual studio 2015\Projects\ExploringDotNET\ExploringDotNET\obj\Debug\ExploringDotNET.pdb
